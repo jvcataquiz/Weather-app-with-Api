@@ -1,0 +1,11 @@
+C:\Users\jvcat\source\repos\WeatherAppWithApi\WeatherApp\WeatherApp\bin\Debug\WeatherApp.exe.config
+C:\Users\jvcat\source\repos\WeatherAppWithApi\WeatherApp\WeatherApp\bin\Debug\WeatherApp.exe
+C:\Users\jvcat\source\repos\WeatherAppWithApi\WeatherApp\WeatherApp\bin\Debug\WeatherApp.pdb
+C:\Users\jvcat\source\repos\WeatherAppWithApi\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.AssemblyReference.cache
+C:\Users\jvcat\source\repos\WeatherAppWithApi\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\jvcat\source\repos\WeatherAppWithApi\WeatherApp\WeatherApp\obj\Debug\WeatherApp.WeatherAppWithApi.resources
+C:\Users\jvcat\source\repos\WeatherAppWithApi\WeatherApp\WeatherApp\obj\Debug\WeatherApp.Properties.Resources.resources
+C:\Users\jvcat\source\repos\WeatherAppWithApi\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.GenerateResource.cache
+C:\Users\jvcat\source\repos\WeatherAppWithApi\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\jvcat\source\repos\WeatherAppWithApi\WeatherApp\WeatherApp\obj\Debug\WeatherApp.exe
+C:\Users\jvcat\source\repos\WeatherAppWithApi\WeatherApp\WeatherApp\obj\Debug\WeatherApp.pdb
