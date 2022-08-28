@@ -41,8 +41,8 @@ namespace WeatherApp
                     pictureBoxIcon.ImageLocation = "https://api.openweathermap.org/img/w/" + Info.weather[0].icon + ".png";
                     labelConditionValue.Text = Info.weather[0].main;
                     labelDetailValue.Text = Info.weather[0].description;
-                    labelSunrise.Text = Info.sys.sunrise.ToString();
-                    labelSunset.Text = Info.sys.sunset.ToString();
+                    labelSunrise.Text = convertTime(Info.sys.sunrise).ToShortTimeString();
+                    labelSunset.Text = convertTime(Info.sys.sunset).ToShortTimeString();
                     labelPressure.Text = Info.main.pressure.ToString();
                     labelWindspped.Text = Info.wind.speed.ToString();
                 }
@@ -52,7 +52,15 @@ namespace WeatherApp
 
                 MessageBox.Show("No City Found!!!!");
             }
+
            
+        }
+
+        DateTime convertTime(double suntime)
+        {
+            DateTime day = new DateTime(1970, 1, 1, 0, 0, 0, 0, System.DateTimeKind.Utc).ToLocalTime();
+            day = day.AddSeconds(suntime).ToLocalTime();
+            return day;
         }
     }
 }

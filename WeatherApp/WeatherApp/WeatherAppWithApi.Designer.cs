@@ -76,7 +76,7 @@
             // labelConditionValue
             // 
             this.labelConditionValue.AutoSize = true;
-            this.labelConditionValue.Location = new System.Drawing.Point(170, 100);
+            this.labelConditionValue.Location = new System.Drawing.Point(137, 32);
             this.labelConditionValue.Name = "labelConditionValue";
             this.labelConditionValue.Size = new System.Drawing.Size(78, 13);
             this.labelConditionValue.TabIndex = 3;
@@ -165,9 +165,9 @@
             // 
             // pictureBoxIcon
             // 
-            this.pictureBoxIcon.Location = new System.Drawing.Point(279, 12);
+            this.pictureBoxIcon.Location = new System.Drawing.Point(87, 60);
             this.pictureBoxIcon.Name = "pictureBoxIcon";
-            this.pictureBoxIcon.Size = new System.Drawing.Size(154, 139);
+            this.pictureBoxIcon.Size = new System.Drawing.Size(128, 90);
             this.pictureBoxIcon.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBoxIcon.TabIndex = 13;
             this.pictureBoxIcon.TabStop = false;
@@ -175,7 +175,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(77, 61);
+            this.label2.Location = new System.Drawing.Point(46, 32);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(51, 13);
             this.label2.TabIndex = 14;
@@ -194,7 +194,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(445, 422);
+            this.ClientSize = new System.Drawing.Size(415, 422);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.pictureBoxIcon);
